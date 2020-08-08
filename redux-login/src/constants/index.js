@@ -1,0 +1,4 @@
+export const ADD_FLASH_MSG = 'ADD_FLASH_MSG'
+export const DELETE_FLASH_MSG = 'DELETE_FLASH_MSG'
+export const SET_CURREBT_USER = 'SET_CURREBT_USER'
+
